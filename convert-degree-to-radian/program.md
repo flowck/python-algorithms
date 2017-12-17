@@ -1,3 +1,5 @@
+https://www.w3resource.com/python-exercises/math/
+
 1. Write a Python program to convert degree to radian. Go to the editor
 Note : The radian is the standard unit of angular measure, used in many areas of mathematics. An angle's measurement in radians is numerically equal to the length of a corresponding arc of a unit circle; one radian is just under 57.3 degrees (when the arc length is equal to the radius).
 Test Data:
